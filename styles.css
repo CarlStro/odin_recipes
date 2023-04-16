@@ -1,0 +1,21 @@
+ul {
+    font-family: Georgia, sans-serif;
+}
+
+.ingredients {
+    font-family: Geneve, sans-serif;
+    font-weight: 100;
+    color: rgb(221, 157, 157);
+    background-color: rgb(85, 82, 82);
+    margin-right: 70%
+}
+
+p {
+    margin-right: 50%;
+}
+
+h1 {
+    color: blue;
+    background-color: lightcoral;
+    margin-inline-end: 90%;
+}
